@@ -23,4 +23,7 @@ Sub_metering_2: energy sub-metering No. 2 (in watt-hour of active energy). It co
 
 Sub_metering_3: energy sub-metering No. 3 (in watt-hour of active energy). It corresponds to an electric water-heater and an air-conditioner.
 
+P.S. :
 Changes have been made to labels of the graph to make it look more consistent.
+
+The file has been unzipped in the working directory, to make the read.csv command work without any difficulty.
